@@ -1,0 +1,7 @@
+bin/
+obj/
+launchSettings.json
+.vs/
+*.suo
+aspirate*.json
+aspirate-output/

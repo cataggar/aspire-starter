@@ -8,8 +8,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aspir8.ServiceDefaults", "A
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aspir8.ApiService", "Aspir8.ApiService\Aspir8.ApiService.csproj", "{AB266760-541D-413A-92EF-47D197F01DE9}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aspir8.Web", "Aspir8.Web\Aspir8.Web.csproj", "{98F96801-EF02-4E91-BDFC-82C4130FFB77}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
